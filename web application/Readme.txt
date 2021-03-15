@@ -1,0 +1,1 @@
+Create a new virtual directory in IIS and point it towards the folder than contains the Sendmsg.asp file. Dont forget to run the WMS server before running the site.
